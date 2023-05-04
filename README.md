@@ -3,4 +3,4 @@
 To see the HTML files directly from GitHub [click here](https://raw.githack.com/rubens672/-Azure-Databricks-Spark-For-Data-Engineers/main/index.html)
   
 ## Modern analytics architecture with Azure Databricks
-![Modern analytics architecture with Azure Databricks]()
+![Modern analytics architecture with Azure Databricks](azure-databricks-modern-analytics-architecture-diagram.png)
